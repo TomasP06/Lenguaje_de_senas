@@ -1,0 +1,47 @@
+# Entornos virtuales
+venv/
+venv_py311/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Dataset de imágenes (puede ser muy grande)
+# Comenta estas líneas si quieres incluir el dataset
+dataset/
+
+# Archivos de modelos entrenados
+*.pt
+*.pth
+*.onnx
+*.h5
+*.keras
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
+runs/
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Distribución / empaquetado
+dist/
+build/
+*.egg-info/

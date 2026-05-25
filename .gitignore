@@ -15,6 +15,9 @@ __pycache__/
 # Comenta estas líneas si quieres incluir el dataset
 dataset/
 
+# Dataset preparado para YOLO (generado por build_yolo_structure.py)
+yolo_dataset/
+
 # Archivos de modelos entrenados
 *.pt
 *.pth

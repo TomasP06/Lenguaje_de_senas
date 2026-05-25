@@ -48,3 +48,7 @@ desktop.ini
 dist/
 build/
 *.egg-info/
+
+# Documento LaTeX (no incluir en el repositorio)
+Documento_Vision.pdf
+Documento_Vision.tex
